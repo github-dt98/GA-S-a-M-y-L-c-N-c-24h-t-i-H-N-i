@@ -1,0 +1,6 @@
+{
+  "name": "Sửa Máy Lọc Nước Hà Nội",
+  "description": "Dịch vụ sửa chữa máy lọc nước tại Hà Nội uy tín, chuyên nghiệp 24/7, cam kết linh kiện chính hãng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
